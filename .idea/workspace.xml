@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="577448bd-3ffe-4b5e-9f46-fa1029aeec02" name="Default Changelist" comment="" />
+    <list default="true" id="577448bd-3ffe-4b5e-9f46-fa1029aeec02" name="Default Changelist" comment="branch master test1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +27,11 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1krhJo3BBsKNGxbpHd4SUHFNJ7H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,14 +48,37 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="branch master test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="branch master test1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="839" y="439" key="Github.ShareDialog" timestamp="1606464627747">
+    <state x="839" y="439" key="Github.ShareDialog" timestamp="1606464706971">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="839" y="439" key="Github.ShareDialog/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1606464627747" />
+    <state x="839" y="439" key="Github.ShareDialog/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1606464706971" />
+    <state x="813" y="226" key="Github.UntrackedFilesDialog" timestamp="1606464720576">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="813" y="226" key="Github.UntrackedFilesDialog/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1606464720576" />
     <state x="486" y="174" key="SettingsEditor" timestamp="1606464686519">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="486" y="174" key="SettingsEditor/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1606464686519" />
+    <state x="592" y="275" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1606468883345">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="592" y="275" width="800" height="526" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1606468883345" />
   </component>
 </project>
